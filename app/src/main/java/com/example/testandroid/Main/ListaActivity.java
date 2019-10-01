@@ -130,8 +130,6 @@ public class ListaActivity extends BaseActivity {
                     personajesTemp.addAll(amiibo.getAmiibo());
 
                     if(personajes.size() > 0){
-                        logePrint("size " + personajes.size());
-
                         adapterAmiibo.notifyDataSetChanged();
                     }
                 }
