@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TestAndroid</string>
+    <string name="detalles">Detalles</string>
+    <string name="nombre">Nombre:</string>
+    <string name="caracter">Caracter:</string>
+    <string name="a_series">A Series:</string>
+    <string name="g_series">G Series:</string>
+    <string name="tipo">Tipo:</string>
+    <string name="fechas_de_lanzamiento">Fechas de Lanzamiento</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="buscar">Buscar...</string>
+    <string name="email">Email</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="email_incorrecto">Email incorrecto</string>
+    <string name="email_vacio">Email vacio, Ingrese un correo valido</string>
+    <string name="contraseña_incorrecta">Contraseña incorrecta</string>
+    <string name="datos_incorrectos">Los datos son incorrectos</string>
+    <string name="australia">Australia : </string>
+    <string name="union_europea">Union Europea: </string>
+    <string name="japon">Japón: </string>
+    <string name="namibia">Namibia: </string>
+</resources>
